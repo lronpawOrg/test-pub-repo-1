@@ -1,2 +1,2 @@
 # test-pub-repo-1
-Test pubic
+Test public repo
